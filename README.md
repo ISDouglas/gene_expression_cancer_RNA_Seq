@@ -11,7 +11,7 @@
    
    Running the whole codes can take about 10 mins.
 
-3. 'Test_on_featrues_selection_Biostat3.ipynb'
+3. 'Test_on_features_selection_Biostat3.ipynb'
    Code for testing number of estimators, number of estimators = 10 turns to be the minimum number of estimators to achieve the optimal performance, at this number, 193 features (genes) are selected in this project, nearly the number of test datasets. 
 
    To get access by link: https://colab.research.google.com/drive/1gRmUqyv82zB1hUHP9et7mjCAFFA-9I5A?usp=sharing
