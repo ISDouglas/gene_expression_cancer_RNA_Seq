@@ -1,7 +1,8 @@
 1. 'Projet_Biostat3.ipynb': 
    The whole model codes on the google collab notebook format for this project, the datasets(data.rar and labels.csv in this file) are loaded through url links in this notebook. 
 
-   3 methods to run it in google collab: 
+   3 methods to run it in google collab:
+   
    (1) Use link : https://colab.research.google.com/drive/1TzyChu79mOtpb5Du_TLLuKqmXwthzJbG?usp=sharing
    
    (2) click on the 'Open In Collab' at the head of the code.
