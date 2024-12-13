@@ -3,16 +3,18 @@
 
    3 methods to run it in google collab: 
    (1) Use link : https://colab.research.google.com/drive/1TzyChu79mOtpb5Du_TLLuKqmXwthzJbG?usp=sharing
-   (2) click on the 'Open In Collab' at the head of the code.    
+   
+   (2) click on the 'Open In Collab' at the head of the code.
+      
    (3) download the .Ipynb file
    
    Running the whole codes can take about 10 mins.
 
-2. 'Test_on_featrues_selection_Biostat3.ipynb'
+3. 'Test_on_featrues_selection_Biostat3.ipynb'
    Code for testing number of estimators, number of estimators = 10 turns to be the minimum number of estimators to achieve the optimal performance, at this number, 193 features (genes) are selected in this project, nearly the number of test datasets. 
 
    To get access by link: https://colab.research.google.com/drive/1gRmUqyv82zB1hUHP9et7mjCAFFA-9I5A?usp=sharing
 
    Running the whole codes can take about 7 mins.
 
-3. data.rar and labels.csv: resource files of datasets
+4. data.rar and labels.csv: resource files of datasets
