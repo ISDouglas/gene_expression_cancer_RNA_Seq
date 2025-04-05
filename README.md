@@ -1,4 +1,4 @@
-This is a project that using machinee learning to analyse the different gene expression on cancer samples.
+This is a project that using machine learning to analyse the different gene expression on cancer samples.
 
 1. 'Projet_Biostat3.ipynb': 
    The whole model codes on the google collab notebook format for this project, the datasets(data.rar and labels.csv in this file) are loaded through url links in this notebook. 
